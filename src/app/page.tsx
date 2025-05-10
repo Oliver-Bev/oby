@@ -1,6 +1,6 @@
 "use client";
 
-import Image from "next/image";
+import Image from "/public/back.jpg";
 import { useState, useEffect } from 'react';
 import { CircleHelp, MoveLeft, CircleCheck  } from 'lucide-react';
 
