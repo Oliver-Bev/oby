@@ -70,7 +70,7 @@ align-items: center;
 .info{
   display: flex;
   border-radius: 25px;
-  height: 45dvh;
+  height: 50dvh;
   width: 95dvw;
   background: url(/back.jpg);
   background-position-y: 70%;
